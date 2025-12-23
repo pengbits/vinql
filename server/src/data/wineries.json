@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "name": "Château Margaux",
+    "region": "Bordeaux",
+    "country": "France",
+    "established": 1705,
+    "description": "Premier Grand Cru Classé in the Médoc classification of 1855"
+  },
+  {
+    "id": "2",
+    "name": "Domaine de la Romanée-Conti",
+    "region": "Burgundy",
+    "country": "France",
+    "established": 1869,
+    "description": "One of the world's most prestigious wine estates"
+  },
+  {
+    "id": "3",
+    "name": "Opus One",
+    "region": "Napa Valley",
+    "country": "United States",
+    "established": 1979,
+    "description": "A partnership between Robert Mondavi and Baron Philippe de Rothschild"
+  },
+  {
+    "id": "4",
+    "name": "Sassicaia",
+    "region": "Tuscany",
+    "country": "Italy",
+    "established": 1948,
+    "description": "Pioneer of Super Tuscan wines"
+  },
+  {
+    "id": "5",
+    "name": "Penfolds",
+    "region": "Barossa Valley",
+    "country": "Australia",
+    "established": 1844,
+    "description": "Iconic Australian winery known for Grange"
+  }
+]
+

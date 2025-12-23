@@ -1,0 +1,11 @@
+{
+  "name": "vinql",
+  "version": "1.0.0",
+  "description": "a playground for graphql - with wine as the domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

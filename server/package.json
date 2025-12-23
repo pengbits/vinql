@@ -1,0 +1,28 @@
+{
+  "name": "vinql-server",
+  "version": "1.0.0",
+  "description": "GraphQL server for VinQL wine sandbox",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": ["graphql", "wine", "apollo-server"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.12.1",
+    "graphql": "^16.8.1",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "@types/node": "^20.11.5",
+    "@types/fs-extra": "^11.0.4"
+  }
+}
+

@@ -1,0 +1,51 @@
+enum WineColor {
+  RED
+  WHITE
+  ROSE
+  SPARKLING
+}
+
+type Winery {
+  id: ID!
+  name: String!
+  region: String!
+  country: String!
+  established: Int
+  description: String
+  wines: [Wine!]!
+}
+
+type Varietal {
+  id: ID!
+  name: String!
+  description: String
+  color: WineColor!
+  wines: [Wine!]!
+}
+
+type Wine {
+  id: ID!
+  name: String!
+  winery: Winery!
+  varietal: Varietal!
+  vintage: Int
+  price: Float
+  description: String
+  alcoholContent: Float
+  rating: Float
+}
+
+type Query {
+  # Winery queries
+  wineries: [Winery!]!
+  winery(id: ID!): Winery
+
+  # Varietal queries
+  varietals: [Varietal!]!
+  varietal(id: ID!): Varietal
+
+  # Wine queries
+  wines: [Wine!]!
+  wine(id: ID!): Wine
+}
+

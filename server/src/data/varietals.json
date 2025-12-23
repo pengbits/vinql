@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Cabernet Sauvignon",
+    "description": "Full-bodied red wine with high tannins and dark fruit flavors",
+    "color": "RED"
+  },
+  {
+    "id": "2",
+    "name": "Pinot Noir",
+    "description": "Light to medium-bodied red wine with delicate flavors",
+    "color": "RED"
+  },
+  {
+    "id": "3",
+    "name": "Chardonnay",
+    "description": "Full-bodied white wine, can be oaked or unoaked",
+    "color": "WHITE"
+  },
+  {
+    "id": "4",
+    "name": "Sauvignon Blanc",
+    "description": "Crisp, aromatic white wine with citrus and herbaceous notes",
+    "color": "WHITE"
+  },
+  {
+    "id": "5",
+    "name": "Merlot",
+    "description": "Medium to full-bodied red wine with soft tannins",
+    "color": "RED"
+  },
+  {
+    "id": "6",
+    "name": "Syrah",
+    "description": "Full-bodied red wine with dark fruit and spice flavors",
+    "color": "RED"
+  },
+  {
+    "id": "7",
+    "name": "Riesling",
+    "description": "Aromatic white wine ranging from dry to sweet",
+    "color": "WHITE"
+  },
+  {
+    "id": "8",
+    "name": "Champagne Blend",
+    "description": "Traditional blend of Chardonnay, Pinot Noir, and Pinot Meunier",
+    "color": "SPARKLING"
+  }
+]
+

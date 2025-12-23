@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "name": "Château Margaux 2015",
+    "wineryId": "1",
+    "varietalId": "1",
+    "vintage": 2015,
+    "price": 650.00,
+    "description": "Elegant and complex with notes of blackcurrant, violet, and cedar",
+    "alcoholContent": 13.5,
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "name": "Château Margaux 2018",
+    "wineryId": "1",
+    "varietalId": "1",
+    "vintage": 2018,
+    "price": 720.00,
+    "description": "Powerful and structured with great aging potential",
+    "alcoholContent": 13.8,
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "name": "Romanée-Conti 2016",
+    "wineryId": "2",
+    "varietalId": "2",
+    "vintage": 2016,
+    "price": 15000.00,
+    "description": "The pinnacle of Pinot Noir, incredibly rare and sought after",
+    "alcoholContent": 13.2,
+    "rating": 5.0
+  },
+  {
+    "id": "4",
+    "name": "Opus One 2019",
+    "wineryId": "3",
+    "varietalId": "1",
+    "vintage": 2019,
+    "price": 350.00,
+    "description": "Bold and rich with dark fruit, chocolate, and spice",
+    "alcoholContent": 14.5,
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "name": "Sassicaia 2017",
+    "wineryId": "4",
+    "varietalId": "1",
+    "vintage": 2017,
+    "price": 280.00,
+    "description": "Italian elegance with Bordeaux structure",
+    "alcoholContent": 14.0,
+    "rating": 4.6
+  },
+  {
+    "id": "6",
+    "name": "Penfolds Grange 2016",
+    "wineryId": "5",
+    "varietalId": "6",
+    "vintage": 2016,
+    "price": 750.00,
+    "description": "Australia's most celebrated wine, powerful and age-worthy",
+    "alcoholContent": 14.5,
+    "rating": 4.9
+  },
+  {
+    "id": "7",
+    "name": "Château Margaux Blanc 2020",
+    "wineryId": "1",
+    "varietalId": "3",
+    "vintage": 2020,
+    "price": 450.00,
+    "description": "Rare white wine from a red wine estate",
+    "alcoholContent": 13.0,
+    "rating": 4.5
+  },
+  {
+    "id": "8",
+    "name": "Opus One 2020",
+    "wineryId": "3",
+    "varietalId": "1",
+    "vintage": 2020,
+    "price": 380.00,
+    "description": "Latest vintage showing excellent balance",
+    "alcoholContent": 14.8,
+    "rating": 4.8
+  }
+]
+
